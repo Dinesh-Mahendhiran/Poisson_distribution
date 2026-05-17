@@ -76,3 +76,7 @@ print("The given data can be fitted in Poisson Distribution at 1% LOS" if cal_ch
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
+## Github Link:
+```
+https://github.com/Dinesh-Mahendhiran/Poisson_distribution.git
+```
